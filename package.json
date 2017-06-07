@@ -1,0 +1,25 @@
+{
+  "name": "arcifact",
+  "version": "1.0.3",
+  "description": "Static site generator",
+  "main": "arc",
+  "bin": {
+    "arc": "./arc"
+  },
+  "dependencies": {
+    "html": "^1.0.0",
+    "nightmare": "^2.10.0",
+    "shelljs": "^0.7.7",
+    "sqlite3": "^3.1.8",
+    "yargs": "^8.0.1"
+  },
+  "devDependencies": {
+    "esdoc": "^0.5.2",
+    "esdoc-standard-plugin": "0.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric F",
+  "license": "ISC"
+}
