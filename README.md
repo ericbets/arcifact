@@ -3,7 +3,7 @@ Arcifact
 
 Arcifact is a simple tool to record metadata about files for publishing on the web. Also a static site generator lightly modelled in interface after the git dvcs. Influenced by mustache.js, metalsmith, hexo, git & others. It shows it's strength when you have a selection of existing templates to try on, as you would a coat, scarf or other classical accroutrement. 
 
-Awhile back, I read an offhand comment by the author of ANTLR, Terrence Parr. He said, if you are using templates, you shouldn't have any logic or conditionals inside the template. His reasoning was because if you do otherwise, the template is no longer a template, it's *software*. So you are better off just writing your software the way you usually write it. This was influential to me at the time and I've followed that advice since then. This tool has descended from that line of thinking. Your templates are standard html files.
+Awhile back, I read an offhand comment by the author of ANTLR, Terrence Parr. He said, if you are using templates, you shouldn't have any logic or conditionals inside the template. His reasoning was because if you do otherwise, the template is no longer a template, it's *software*. So you are better off just writing your software the way you usually write it. This was influential to me at the time and this tool has descended from that line of thinking. Your templates are standard html files.
 
 Commands
 --------
