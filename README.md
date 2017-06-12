@@ -1,5 +1,6 @@
 Arcifact
 ===================
+Note: You may have to delete and re-clone this project. I just assumed no one had noticed it and did a rebase to squash some commits together on master. For a 5 day old project, it turns out quite a few people have downloaded it. My bad. All the changes I've made so far were to the README.md file for clarity, the sw hasn't changed.
 
 Arcifact is a simple tool to record metadata about files for publishing on the web. Also a static site generator lightly modelled in interface after the git dvcs. Influenced by mustache.js, metalsmith, hexo, git & others. It shows it's strength when you have a selection of existing templates to try on, as you would a coat, scarf or other classical accroutrement. 
 
